@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableInterface", "DisposableInterface\DisposableInterface.csproj", "{8BBCB7E2-31F3-4FD3-8AF7-FC6FE02B8A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableInterface.Tests", "DisposableInterface.Tests\DisposableInterface.Tests.csproj", "{7C1003E8-DAA4-4D02-B323-B31A4F35E474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBCB7E2-31F3-4FD3-8AF7-FC6FE02B8A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBCB7E2-31F3-4FD3-8AF7-FC6FE02B8A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBCB7E2-31F3-4FD3-8AF7-FC6FE02B8A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBCB7E2-31F3-4FD3-8AF7-FC6FE02B8A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1003E8-DAA4-4D02-B323-B31A4F35E474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1003E8-DAA4-4D02-B323-B31A4F35E474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1003E8-DAA4-4D02-B323-B31A4F35E474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1003E8-DAA4-4D02-B323-B31A4F35E474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0867211-017A-45FD-96D0-71BEB067F5E9}
+	EndGlobalSection
+EndGlobal
